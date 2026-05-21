@@ -1,2 +1,2 @@
-# Glintcoin
-Glintcoin
+# VERDANT
+VERDANT
