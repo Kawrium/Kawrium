@@ -1,2 +1,2 @@
-# Slipcoin
-Slipcoin
+# PRISTINE
+PRISTINE
